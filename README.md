@@ -2,7 +2,7 @@
 def introduction():
     name = "Patricia Zhuge"  
     school_level = "Senior High School Student"
-    interests = ["Motion Graphics", "Writing", "Organizing"]  
+    interests = ["Motion Graphics", "Writing", "Urbanism"]  
     
     print(f"Hello! My name is {name}.")
     print(f"I am currently a {school_level}.")
